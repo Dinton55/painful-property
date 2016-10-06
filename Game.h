@@ -10,7 +10,8 @@ enum GameState
 {
 	GAMESTATE_ACTIVE,
 	GAMESTATE_SPLASH,
-	GAMESTATE_RESET
+	GAMESTATE_RESET,
+	GAMESTATE_0
 };
 
 using namespace random;
