@@ -5,7 +5,7 @@ using namespace timer;
 #include "Player.h"
 #include "Obstacle.h"
 #include "random.h"
-
+// Is this working?
 enum GameState
 {
 	GAMESTATE_ACTIVE,
